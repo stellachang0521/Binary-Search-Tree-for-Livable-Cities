@@ -6,4 +6,6 @@ As a user initiates a search, data will be organized and filtered through differ
 Selection criteria include costs of living, property indices, July mean temperature, and December mean temperature. Users are prompted search in their preferred value range of a certain criteria.
 After providing search standards for the binary tree searches, users will also be presented different data visualization options to choose from.
 
+Data are stored into binary search trees using classes. The criteria values are used as keys while the city names act as the payloads of the nodes. 
+
 The data used in this tool were mostly cached from the Numbeo and Statistical Weather Data API. Authorized API keys are provided in the code, but you can apply for your own.
